@@ -3,24 +3,14 @@
 
 #wget https://github.com/stevemclaugh/pennsound-clone/blob/master/PennSound_metadata.csv?raw=true
 
-import timeit
-tic=timeit.default_timer()
-
 
 import unicodecsv
-import json
-#import pandas as pd
-import sys, getopt, pprint
 from pymongo import MongoClient
-#CSV to JSON Conversion
+
 csvfile = open('PennSound_metadata.csv', 'r')
 reader = unicodecsv.DictReader( csvfile )
 mongo_client=MongoClient('mongo', 27017)
-print(timeit.default_timer() - tic)
-
 db=mongo_client.pennsound
-
-print(timeit.default_timer() - tic)
 
 db.record.drop()
 header= [ 'url','author','title','album','genre','year','comments','track_no','composer','content_group','band','conductor','interpreted_by','location','encoded_by','album_artist','album_type','audio_source_url','commercial_url','copyright_url','encoding_date','internet_radio_url','play_count','publisher','publisher_url','original_release_date','recording_date','release_date','tagging_date','terms_of_use','id3_version','processing_error']
@@ -37,14 +27,39 @@ for each in reader:
         print(counter)
         print(timeit.default_timer() - tic)
     except:
-        pass
+        print("ERROR: "+str(each))
 
 
 
 ####
 
+#cursor = db.record.find({ 'author' :  {'$regex':'.*Bernstein.*'}})
 
-cursor = db.record.find({ 'author' :  {'$regex':'.*Bernstein.*'}})
+#for item in cursor:
+#    print item
 
-for item in cursor:
-    print item
+
+from pymongo import MongoClient
+
+mongo_client=MongoClient('mongo', 27017)
+
+db=mongo_client.pennsound
+
+
+def display_record(record_dict):
+    print(
+    record_dict['author']+' | '+ \
+    record_dict['title']+' | '+ \
+    record_dict['album']+' | '+ \
+    record_dict['year']+' | '+ \
+    '''<a href="'''+record_dict['url']+'''">link</a>'''
+    )
+
+def search_author(author_name):
+    cursor = db.record.find({ 'author' :  {'$regex':'.*'+author_name+'.*'}})
+    search_results=[]
+    for item in cursor:
+        search_results.append(display_record(item))
+    return search_results
+
+search_author('Filreis')
