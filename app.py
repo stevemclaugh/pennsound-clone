@@ -52,8 +52,9 @@ def page(page_id):
 
 
 
-@app.route('/search/<search_term>')
-def search(search_term):
+@app.route('/search/',methods=['POST','GET'])
+def search():
+  search_term=request.form['q']
   content = '\n\n'.join(search_author(search_term))
   content = Markup(markdown.markdown(content))
   return render_template('page.html', **locals())
@@ -63,6 +64,7 @@ def search(search_term):
 # Run the app
 if __name__ == '__main__':
     app.run(
+        threaded=True,
         debug=True,
         host="0.0.0.0",
         port=int("3805")
