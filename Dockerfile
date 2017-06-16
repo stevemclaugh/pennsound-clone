@@ -6,7 +6,7 @@ MAINTAINER Steve McLaughlin <stephen.mclaughlin@utexas.edu>
 EXPOSE 3805
 
 ENV SHELL /bin/bash
-#ENV PYTHONWARNINGS="ignore:a true SSLContext object"
+ENV PYTHONWARNINGS="ignore:a true SSLContext object"
 
 # Update OS
 RUN apt-get update && apt-get install -y \
@@ -24,8 +24,8 @@ Flask \
 Jinja2 \
 unicodecsv
 
-COPY ./setup.sh /home/
 RUN mkdir -p /home/x/
+COPY ./setup.sh /home/
 
 COPY ./requirements.txt /var/local/
 RUN pip install -qr /var/local/requirements.txt
