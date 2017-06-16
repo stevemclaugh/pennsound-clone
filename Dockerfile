@@ -19,16 +19,27 @@ git \
 unzip \
 && python -m pip install -U pip
 
-RUN mkdir -p /home/x/
-COPY ./setup.sh /home/
+COPY ./setup.sh /var/local/
 
 COPY ./requirements.txt /var/local/
 RUN pip install -qr /var/local/requirements.txt
+
+RUN mkdir -p /home/PennSound_pages/
+COPY ./PennSound_pages/* /home/PennSound_pages/
+
+RUN mkdir -p /home/static/
+COPY ./static/* /home/static/
+
+RUN mkdir -p /home/templates/
+COPY ./templates/* /home/templates/
+
+COPY ./PennSound_metadata.csv /home/
+COPY ./app.py /home/
 
 # Install FFmpeg with mp3 support
 #RUN add-apt-repository -y ppa:mc3man/trusty-media \
 # && apt-get update -y \
 # && apt-get install -y ffmpeg gstreamer0.10-ffmpeg
 
-WORKDIR /home/x/
-#ENTRYPOINT ["bash","/home/setup.sh"]
+WORKDIR /home/
+#ENTRYPOINT ["bash","/var/local/setup.sh"]
