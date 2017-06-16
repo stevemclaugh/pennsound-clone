@@ -1,9 +1,9 @@
 version: '2'
-stdin_open: true
-tty: true
 services:
     web:
         build: .
+        stdin_open: true
+        tty: true
         ports:
             - "80:5000"
         depends_on:
