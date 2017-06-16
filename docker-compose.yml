@@ -5,7 +5,8 @@ services:
         stdin_open: true
         tty: true
         ports:
-            - "80:5000"
+            - "3805"
+            - "27017"
         depends_on:
             - mongo
     mongo:
