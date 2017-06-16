@@ -20,7 +20,7 @@ def display_record(record_dict):
 
 def search_author(author_name):
     cursor = db.record.find({ 'author' :  {'$regex':'.*'+author_name+'.*'}})
-    search_results=[]
+    search_results=['author | title | album | year | link','---------------------------------------------']
     for item in cursor:
         search_results.append(display_record(item))
     return search_results
@@ -60,7 +60,7 @@ def page_php(page_id):
 @app.route('/search/',methods=['POST','GET'])
 def search():
   search_term=request.form['q']
-  content = '\n\n'.join(search_author(search_term))
+  content = '\n'.join(search_author(search_term))
   content = Markup(markdown.markdown(content))
   return render_template('page.html', **locals())
 

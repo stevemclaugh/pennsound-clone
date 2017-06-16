@@ -40,6 +40,7 @@ COPY ./templates/ /home/templates/
 
 COPY ./PennSound_metadata.csv /home/
 COPY ./app.py /home/
+COPY ./wsgi.py /home/
 COPY ./load_metadata_db.py /home/
 
 # Install FFmpeg with mp3 support
