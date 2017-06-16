@@ -52,6 +52,13 @@ def page(page_id):
 
 
 
+@app.route('/search/<search_term>')
+def search(search_term):
+  content = '\n\n'.join(search_author(search_term))
+  content = Markup(markdown.markdown(content))
+  return render_template('page.html', **locals())
+
+
 
 # Run the app
 if __name__ == '__main__':
