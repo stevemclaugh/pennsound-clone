@@ -40,7 +40,7 @@ COPY ./templates/* /home/templates/
 
 COPY ./PennSound_metadata.csv /home/
 COPY ./app.py /home/
-COPY ./initialize_metadata_db.py /home/
+COPY ./load_metadata_db.py /home/
 
 # Install FFmpeg with mp3 support
 #RUN add-apt-repository -y ppa:mc3man/trusty-media \
