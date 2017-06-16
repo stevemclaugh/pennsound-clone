@@ -17,12 +17,7 @@ python-pip \
 wget \
 git \
 unzip \
-&& python -m pip install -U pip \
-&& pip install -U \
-setuptools \
-Flask \
-Jinja2 \
-unicodecsv
+&& python -m pip install -U pip
 
 RUN mkdir -p /home/x/
 COPY ./setup.sh /home/
