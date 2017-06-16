@@ -10,13 +10,13 @@ db=mongo_client.pennsound
 
 
 def display_record(record_dict):
-    print(
+    return \
     record_dict['author']+' | '+ \
     record_dict['title']+' | '+ \
     record_dict['album']+' | '+ \
     record_dict['year']+' | '+ \
     '''<a href="'''+record_dict['url']+'''">link</a>'''
-    )
+
 
 def search_author(author_name):
     cursor = db.record.find({ 'author' :  {'$regex':'.*'+author_name+'.*'}})

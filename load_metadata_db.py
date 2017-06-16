@@ -25,6 +25,6 @@ for each in reader:
             row[field]=each[field]
         db.record.insert(row)
         counter+=1
-        print(counter)
+        #print(counter)
     except:
         print("ERROR: "+str(each))
