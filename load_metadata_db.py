@@ -26,6 +26,5 @@ for each in reader:
         db.record.insert(row)
         counter+=1
         print(counter)
-        print(timeit.default_timer() - tic)
     except:
         print("ERROR: "+str(each))
