@@ -10,7 +10,7 @@ os.chdir('/home/')
 mongo_client=MongoClient('mongo', 27017)
 db=mongo_client.pennsound
 
-csvfile = open('PennSound_metadata.csv', 'r')
+csvfile = open('/home/PennSound_metadata.csv', 'r')
 reader = unicodecsv.DictReader( csvfile )
 
 db.record.drop()

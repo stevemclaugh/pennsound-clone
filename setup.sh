@@ -1,3 +1,3 @@
 #!/bin/bash
 
-python initialize_metadata_db.py
+python /home/load_metadata_db.py

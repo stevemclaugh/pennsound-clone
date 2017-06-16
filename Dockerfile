@@ -48,4 +48,4 @@ COPY ./initialize_metadata_db.py /home/
 # && apt-get install -y ffmpeg gstreamer0.10-ffmpeg
 
 WORKDIR /home/
-CMD ["bash","/var/local/setup.sh"]
+#CMD ["bash","/var/local/setup.sh"]
