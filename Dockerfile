@@ -17,6 +17,11 @@ python-pip \
 wget \
 git \
 unzip \
+dpkg \
+gunicorn \
+libxml2-dev \
+libxslt1-dev \
+libssl-dev \
 && python -m pip install -U pip
 
 COPY ./setup.sh /var/local/
