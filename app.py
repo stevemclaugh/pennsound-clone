@@ -52,6 +52,11 @@ def page(page_id):
 
 
 
+@app.route('/x/<page_id>.php')
+def page_php(page_id):
+  return page(page_id)
+
+
 @app.route('/search/',methods=['POST','GET'])
 def search():
   search_term=request.form['q']
