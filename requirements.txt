@@ -4,3 +4,5 @@ markdown
 setuptools
 Jinja2
 unicodecsv
+tabulate
+prettytable

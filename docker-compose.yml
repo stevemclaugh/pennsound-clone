@@ -6,7 +6,6 @@ services:
         tty: true
         ports:
             - "3805:3805"
-            - "27017:27017"
         depends_on:
             - mongo
     mongo:

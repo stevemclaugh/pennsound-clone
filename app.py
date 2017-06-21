@@ -2,6 +2,8 @@ from flask import Flask, render_template, request, url_for, Markup
 from pymongo import MongoClient
 import os
 import markdown
+from tabulate import tabulate
+from prettytable import PrettyTable
 
 app = Flask(__name__)
 
@@ -10,17 +12,18 @@ db=mongo_client.pennsound
 
 
 def display_record(record_dict):
-    return \
-    record_dict['author']+' | '+ \
-    record_dict['title']+' | '+ \
-    record_dict['album']+' | '+ \
-    record_dict['year']+' | '+ \
-    '''<a href="'''+record_dict['url']+'''">link</a>'''
+    return [ \
+    record_dict['author'], \
+    record_dict['title'], \
+    record_dict['album'], \
+    record_dict['year'], \
+    '''<a href="'''+record_dict['url']+'''">link</a>''' \
+    ]
 
 
 def search_author(author_name):
-    cursor = db.record.find({ 'author' :  {'$regex':'.*'+author_name+'.*'}})
-    search_results=['author | title | album | year | link','---------------------------------------------']
+    cursor = db.record.find({ 'author' : {'$regex':'.*'+author_name+'.*'}})
+    search_results=[]
     for item in cursor:
         search_results.append(display_record(item))
     return search_results
@@ -29,7 +32,7 @@ def search_author(author_name):
 
 @app.route('/')
 def index():
-  content = """
+    content = """
 Chapter
 =======
 
@@ -39,30 +42,35 @@ Section
 * Item 1
 * Item 2
 """
-  content = Markup(markdown.markdown(content))
-  return render_template('page.html', **locals())
+    content = Markup(markdown.markdown(content))
+    return render_template('page.html', **locals())
 
 
 
 @app.route('/x/<page_id>.html')
 def page(page_id):
-  content = open('PennSound_pages/'+page_id+'.md').read().decode('utf-8')
-  content = Markup(markdown.markdown(content))
-  return render_template('page.html', **locals())
+    content = open('PennSound_pages/'+page_id+'.md').read().decode('utf-8')
+    content = Markup(markdown.markdown(content))
+    return render_template('page.html', **locals())
 
 
 
 @app.route('/x/<page_id>.php')
 def page_php(page_id):
-  return page(page_id)
+    return page(page_id)
 
 
 @app.route('/search/',methods=['POST','GET'])
 def search():
-  search_term=request.form['q']
-  content = '\n'.join(search_author(search_term))
-  content = Markup(markdown.markdown(content))
-  return render_template('page.html', **locals())
+    search_term=request.form['q']
+    lol = search_author(search_term)
+    x = PrettyTable()
+    for row in lol:
+        x.add_row(row)
+    #html_content = x.get_html_string(attributes={"border":"1"})
+    #content = Markup(html_content)
+    content = Markup(tabulate(lol, tablefmt="html"))
+    return render_template('page.html',content=content)
 
 
 
@@ -73,4 +81,4 @@ if __name__ == '__main__':
         debug=True,
         host="0.0.0.0",
         port=int("3805")
-    )
+        )
