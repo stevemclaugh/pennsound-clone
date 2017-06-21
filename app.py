@@ -33,7 +33,7 @@ def search_author(author_name):
 @app.route('/')
 def index():
     content = """
-Chapter
+Header
 =======
 
 Section
@@ -41,6 +41,7 @@ Section
 
 * Item 1
 * Item 2
+* Item 3
 """
     content = Markup(markdown.markdown(content))
     return render_template('page.html', **locals())
@@ -67,8 +68,7 @@ def search():
     x = PrettyTable()
     for row in lol:
         x.add_row(row)
-    #html_content = x.get_html_string(attributes={"border":"1"})
-    #content = Markup(html_content)
+    #content = x.print_html(attributes={"border":"1"})
     content = Markup(tabulate(lol, tablefmt="html"))
     return render_template('page.html',content=content)
 
