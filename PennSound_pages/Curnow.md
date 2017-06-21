@@ -1,7 +1,7 @@
 [Wystan Curnow](http://www.jackbooks.com/Wystan/Wystan.htm)
 ===========================================================
 
-<img src="images/portraits/Curnow-Wystan_Ch-Bernstein_10-19-06_NY-72dpi.JPG" width="432" height="324" />
+<img src="/static/images/portraits/Curnow-Wystan_Ch-Bernstein_10-19-06_NY-72dpi.JPG" width="432" height="324" />
 
 Photo © 2006 Charles Bernstein/PennSound
 

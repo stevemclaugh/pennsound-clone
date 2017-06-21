@@ -1,4 +1,4 @@
-<img src="images/portraits/Joseph_Lawrence_Ch-Bernstein_7-7-08_NYC.jpg" width="457" height="504" />  
+<img src="/static/images/portraits/Joseph_Lawrence_Ch-Bernstein_7-7-08_NYC.jpg" width="457" height="504" />  
 Photo ©2008 Charles Bernstein/PennSound
 
 Lawrence Joseph

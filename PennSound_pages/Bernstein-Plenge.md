@@ -65,7 +65,7 @@ with Charles Bernstein (2003)
 
 [Install the Flash plugin](http://get.adobe.com/flashplayer/) to watch this video.
 
-**<img src="images/yp/Bernstein-Charles-The-Answer-1.gif" width="320" height="240" /><img src="images/yp/Bernstein-Charles-The-Answer-3.gif" width="320" height="240" />**
+**<img src="/static/images/yp/Bernstein-Charles-The-Answer-1.gif" width="320" height="240" /><img src="/static/images/yp/Bernstein-Charles-The-Answer-3.gif" width="320" height="240" />**
 
   
 Shot in Riverside Park, New York  

@@ -273,7 +273,7 @@ Open
 Secrets **(1993)**
 ------------------
 
-[<img src="images/MacLow-open-secrets-CD.jpg" width="175" height="178" />](Mac-Low-Open-Secrets.html)  
+[<img src="/static/images/MacLow-open-secrets-CD.jpg" width="175" height="178" />](Mac-Low-Open-Secrets.html)  
 
 Reading at [SUNY Buffalo](Buffalo.php), 1997
 --------------------------------------------
@@ -334,7 +334,7 @@ by Jackson Mac Low and Anne Tardos
 
 Recorded Live at Roulette, New York, 18 November 1999  
   
-<img src="images/maclow-music-cd.jpg" width="302" height="312" />
+<img src="/static/images/maclow-music-cd.jpg" width="302" height="312" />
 
 Reading as part of [The Line Reading Series](Line-Reading-Series.html) at the Drawing Center, NYC, June 26, 2001  
 ------------------------------------------------------------------------------------------------------------------

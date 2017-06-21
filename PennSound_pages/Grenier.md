@@ -1,7 +1,7 @@
 [Robert Grenier](http://epc.buffalo.edu/authors/grenier/)
 =========================================================
 
-<img src="images/portraits/Grenier-Robert_Ch-Bernstein-10-20-06-NYC_crop-sml.JPG" width="360" height="349" />
+<img src="/static/images/portraits/Grenier-Robert_Ch-Bernstein-10-20-06-NYC_crop-sml.JPG" width="360" height="349" />
 
 photo: © Charles Bernstein 2006
 

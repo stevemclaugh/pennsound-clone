@@ -1,7 +1,7 @@
 [Bob Perelman](http://www.writing.upenn.edu/pepc/authors/perelman/)
 ===================================================================
 
-<img src="images/portraits/Perelman-Bob_Ch-Bernstein_12-2-06_NYC.JPG" width="432" height="540" />
+<img src="/static/images/portraits/Perelman-Bob_Ch-Bernstein_12-2-06_NYC.JPG" width="432" height="540" />
 
 *Photo: © 2007 Charles Bernstein/PennSound*
 

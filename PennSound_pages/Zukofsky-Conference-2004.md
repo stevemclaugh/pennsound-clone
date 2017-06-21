@@ -66,19 +66,19 @@ Friday, Sept. 17 to Sunday, Sept. 19, 2004
 
 <span class="caption">*Michael Golston*</span>
 
-Real Video <img src="images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
+Real Video <img src="/static/images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
 (5:20): [Stream](http://www.columbia.edu/cu/news/media/04/300_louisZukofsky/michaelGolston.ram)
 , [Download](http://media.sas.upenn.edu/pennsound/video/Zukofsky/Golston-Michael_Zukofsky-Conf.rm)
-<img src="images/Zukofsky-Conference/michaelGolston.jpg" width="100" height="100" />
+<img src="/static/images/Zukofsky-Conference/michaelGolston.jpg" width="100" height="100" />
 *Henry Pinkham*
 
-Real Video <img src="images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
+Real Video <img src="/static/images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
 (2:50): [Stream](http://www.columbia.edu/cu/news/media/04/300_louisZukofsky/henryPinkham.ram)
 , [Download](http://media.sas.upenn.edu/pennsound/video/Zukofsky/Pinkham-Henry_Zukofsky-Conf.rm)
-<img src="images/Zukofsky-Conference/henryPinkham.jpg" width="100" height="100" />
+<img src="/static/images/Zukofsky-Conference/henryPinkham.jpg" width="100" height="100" />
 *Robert Creeley*
 
-Real Video <img src="images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
+Real Video <img src="/static/images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
 (19:48): [Stream](http://www.columbia.edu/cu/news/media/04/300_louisZukofsky/robertCreeley.ram)
 , [Download](http://media.sas.upenn.edu/pennsound/video/Zukofsky/Creeley-Robert_Zukofsky-Conf.rm) ,
 [MP3](http://media.sas.upenn.edu/pennsound/authors/Creeley/Zukofsky-Centennial/Creeley_Robert_Complete-Recording_Zukofsky-Centennial-Conference_Columbia_NYC_9-17-04.mp3)
@@ -91,41 +91,41 @@ Real Video <img src="images/Zukofsky-Conference/cu_icon_video.gif" width="14" he
 7.  Zukofsky as an accomplished prosodist (3:33): [MP3](http://media.sas.upenn.edu/pennsound/authors/Creeley/Zukofsky-Centennial/Creeley_Robert_07_Zukofsky-as-an-accomplished-prosidist_Zukofsky-Centennial-Conference_Columbia_NYC_9-17-04.mp3)
 8.  the personal, intimate, and familial presence of Zukofsky (1:17): [MP3](http://media.sas.upenn.edu/pennsound/authors/Creeley/Zukofsky-Centennial/Creeley_Robert_08_the-personal-intimate-and-familial-presence-of-Zukofsky_Zukofsky-Centennial-Conference_Columbia_NYC_9-17-04.mp3)
 
-<img src="images/Zukofsky-Conference/robertCreeley.jpg" width="100" height="100" />
+<img src="/static/images/Zukofsky-Conference/robertCreeley.jpg" width="100" height="100" />
 *Tim Woods*
 
-Real Video <img src="images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
+Real Video <img src="/static/images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
 (22:51): [Stream](http://www.columbia.edu/cu/news/media/04/300_louisZukofsky/timWoods.ram)
 , [Download](http://media.sas.upenn.edu/pennsound/video/Zukofsky/Woods-Tim_Zukofsky-Conf.rm)
-<img src="images/Zukofsky-Conference/timWoods.jpg" width="100" height="100" />
+<img src="/static/images/Zukofsky-Conference/timWoods.jpg" width="100" height="100" />
 *Mark Scroggins*
 
-Real Video <img src="images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
+Real Video <img src="/static/images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
 (29:12): [Stream](http://www.columbia.edu/cu/news/media/04/300_louisZukofsky/markScroggins.ram)
 , [Download](http://media.sas.upenn.edu/pennsound/video/Zukofsky/Scroggins-Mark_Zukofsky-Conf.rm)
-<img src="images/Zukofsky-Conference/markScroggins.jpg" width="100" height="100" />
+<img src="/static/images/Zukofsky-Conference/markScroggins.jpg" width="100" height="100" />
 *Alan Golding*
 
-Real Video <img src="images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
+Real Video <img src="/static/images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
 (26:35): [Stream](http://www.columbia.edu/cu/news/media/04/300_louisZukofsky/alanGolding.ram)
 , [Download](http://media.sas.upenn.edu/pennsound/video/Zukofsky/Golding-Alan_Zukofsky-Conf.rm)
-<img src="images/Zukofsky-Conference/alanGolding.jpg" width="100" height="100" />
+<img src="/static/images/Zukofsky-Conference/alanGolding.jpg" width="100" height="100" />
 *Norman Finkelstein*
 
-Real Video <img src="images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
+Real Video <img src="/static/images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
 (23:46): [Stream](http://www.columbia.edu/cu/news/media/04/300_louisZukofsky/normanFinkelstein.ram)
 , [Download](http://media.sas.upenn.edu/pennsound/video/Zukofsky/Finkelstein-Norman_Zukofsky-Conf.rm)
-<img src="images/Zukofsky-Conference/normanFinkelstein.jpg" width="100" height="100" />
+<img src="/static/images/Zukofsky-Conference/normanFinkelstein.jpg" width="100" height="100" />
 *Rachel Blau DuPlessis*
 
-Real Video <img src="images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
+Real Video <img src="/static/images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
 (20:37): [Stream](http://www.columbia.edu/cu/news/media/04/300_louisZukofsky/rachelBlauDuPlessis.ram)
 , [Download](http://media.sas.upenn.edu/pennsound/video/Zukofsky/DuPlessis-Rachel-Blau_Zukofsky-Conf.rm)
-<img src="images/Zukofsky-Conference/rachelBlauDuPlessis.jpg" width="100" height="100" />
+<img src="/static/images/Zukofsky-Conference/rachelBlauDuPlessis.jpg" width="100" height="100" />
 *Bob Perelman*
 
-Real Video <img src="images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
+Real Video <img src="/static/images/Zukofsky-Conference/cu_icon_video.gif" width="14" height="8" />
 (24:50): [Stream](http://www.columbia.edu/cu/news/media/04/300_louisZukofsky/bobPerelman.ram)
 , [Download](http://media.sas.upenn.edu/pennsound/video/Zukofsky/Perelman-Bob_Zukofsky-Conf.rm)
-<img src="images/Zukofsky-Conference/bobPerelman.jpg" width="100" height="100" />
+<img src="/static/images/Zukofsky-Conference/bobPerelman.jpg" width="100" height="100" />
 ****

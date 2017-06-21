@@ -4,12 +4,12 @@
 Segue Series at the Bowery Poetry Club, New York - May 5, 2007
 --------------------------------------------------------------
 
-<img src="images/portraits/Bee-Susan_Ch-Bernstein_2007_01.JPG" width="672" height="504" />  
+<img src="/static/images/portraits/Bee-Susan_Ch-Bernstein_2007_01.JPG" width="672" height="504" />  
 Susan Bee Photograph © 2006 Charles Bernstein/PennSound
 
 
 
-<img src="images/portraits/Drucker-Johanna_Ch-Bernstein_11-04-06_NYC.jpg" width="504" height="580" />  
+<img src="/static/images/portraits/Drucker-Johanna_Ch-Bernstein_11-04-06_NYC.jpg" width="504" height="580" />  
 Johanna Drucker © 2006; Charles Bernstein/Pennsound
 
 Introduction by [Erica Kaufman](http://writing.upenn.edu/pennsound/x/Kaufman.html) and Tim Peterson [MP3](http://media.sas.upenn.edu/pennsound/groups/Bee-Drucker/Bee-Susan_Drucker-Johanna_01_Girls-Life_Segue-BPC_5-6-07.mp3) (27:04) [Text](http://segueseries.blogspot.com/2007/05/introduction-for-susan-bee-johanna.html)

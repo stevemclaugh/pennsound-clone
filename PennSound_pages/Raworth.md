@@ -1,7 +1,7 @@
 Tom Raworth
 ===========
 
-<img src="images/portraits/Rawiorth-Tom_5-14-08_London_Ch-Bernstein_01.jpg" width="432" height="324" />  
+<img src="/static/images/portraits/Rawiorth-Tom_5-14-08_London_Ch-Bernstein_01.jpg" width="432" height="324" />  
 photo: ©2008 Bernstein/PennSound  
 
 [Close Listening](http://www.writing.upenn.edu/pennsound/x/Close-Listening.php) recording session at Studio 111, UPenn, March 13, 2006
@@ -434,7 +434,7 @@ Tom Raworth on [PennSound Daily](http://writing.upenn.edu/pennsound/daily):
 
 -   [April 1, 2009: "Tom Raworth: Ace, Poems 1966-1979 (Rockdrill 4)"](http://writing.upenn.edu/pennsound/daily/200904.php#1_17:21)
 
-[<img src="images/Raworth-w-hat.jpg" width="140" height="140" />](http://epc.buffalo.edu/authors/raworth/)
+[<img src="/static/images/Raworth-w-hat.jpg" width="140" height="140" />](http://epc.buffalo.edu/authors/raworth/)
 
 Tom Raworth PennSound page first edited by Kun Jia.
 

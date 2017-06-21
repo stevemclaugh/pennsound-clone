@@ -1,7 +1,7 @@
 [Nick Piombino](%3Ca%20href=)
 =============================
 
-<img src="images/portraits/Piombino-Nick_Ch-Bernsteiin_12-12-06_01-sml.JPG" width="432" height="324" />
+<img src="/static/images/portraits/Piombino-Nick_Ch-Bernsteiin_12-12-06_01-sml.JPG" width="432" height="324" />
 
 photo © 2006 Charles
 Bernstein/PennSound

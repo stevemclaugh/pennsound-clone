@@ -63,7 +63,7 @@ Mac Low ](Mac-Low.html) /  [Anne
 Tardos](Tardos.html)**
 
 **  
-<img src="images/maclow-music-cd.jpg" width="302" height="312" />**
+<img src="/static/images/maclow-music-cd.jpg" width="302" height="312" />**
 
 ***Music
 by Jackson Mac Low and Anne Tardos  

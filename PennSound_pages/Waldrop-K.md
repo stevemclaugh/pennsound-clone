@@ -1,7 +1,7 @@
 Keith Waldrop
 =============
 
-<img src="images/portraits/Waldrop-Keith_Ch-Bernstein_11-5-09.jpg" width="720" height="540" />  
+<img src="/static/images/portraits/Waldrop-Keith_Ch-Bernstein_11-5-09.jpg" width="720" height="540" />  
 *Photo © 2009 Charles Bernstein/PennSound*
 
 [Close Listening](http://writing.upenn.edu/pennsound/x/Close-Listening.php)  

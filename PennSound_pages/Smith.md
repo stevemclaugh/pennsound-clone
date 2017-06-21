@@ -59,7 +59,7 @@ Library](http://writing.upenn.edu/pepc/contents.html)
 **  
 Rod Smith**  
   
-<img src="images/rodsmith.jpg" width="422" height="285" />  
+<img src="/static/images/rodsmith.jpg" width="422" height="285" />  
 
 Berl's Books Reading in Brooklyn, New York on June 5, 2015
 

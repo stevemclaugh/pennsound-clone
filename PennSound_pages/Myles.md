@@ -1,7 +1,7 @@
 [Eileen Myles](http://www.eileenmyles.com/)
 ===========================================
 
-<img src="images/portraits/Myles_Eileen_Emma-Bernstein_2007.jpg" width="576" height="675" />  
+<img src="/static/images/portraits/Myles_Eileen_Emma-Bernstein_2007.jpg" width="576" height="675" />  
 *Photo © 2007 Emma Bee Bernstein*
 
 PoemTalk Podcast \#103, discussing Simone White's Poem *"Of Being Dispersed"*

@@ -119,7 +119,7 @@ Listening](Close-Listening.php)
 > (*cut off in middle*)
 >
 >   
-> <img src="images/portraits/Ashbery-Bernstein_S-Bee_9-%20copy.JPG" width="600" />  
+> <img src="/static/images/portraits/Ashbery-Bernstein_S-Bee_9-%20copy.JPG" width="600" />  
 > Ashbery & Bernstein at Bard for Ashbery's 80th (photo by Susan Bee, ©2007)  
 >
 > These recordings are being

@@ -60,7 +60,7 @@ Library](http://writing.upenn.edu/pepc/contents.html)
 [Chax Press  
 ](http://www.chax.org/)New York City Book Launch** ****  
   
-<img src="images/portraits/Alexander-Charles_Ch-Bernstein_1-15-06.JPG" width="360" height="270" />  
+<img src="/static/images/portraits/Alexander-Charles_Ch-Bernstein_1-15-06.JPG" width="360" height="270" />  
 **Charles Alexander  
 **photo © Charles
 Bernstein/PennSound 2007
@@ -101,9 +101,9 @@ Russo.
 8.  Charles Alexander reading reading Linda V. Russo (3:23): [MP3](http://media.sas.upenn.edu/pennsound/groups/Chax/NYC-07/Alexander-Charles_reading-Linda-Russo_Chax-Press-Poets_Bowery-Poetry_NYC_1-14-07.mp3)
 
   
-<img src="images/Chax/Andrews-Bruce_Ch-Bernstein_BPC_NYC_1-14-06.JPG" width="432" height="324" /><img src="images/Chax/Borkhuis-Charles_Ch-Bernstein-BPC-NYC_1-15-07.jpg" width="324" height="432" />  
-<img src="images/Chax/Cobb-Allison_Ch-Bernstein_BPC-NYC_1-15-07.JPG" width="288" height="216" /><img src="images/Chax/Mott-Glenn_Ch-Bernstein_BPC-NYC_1-14-07.JPG" width="360" height="270" />  
-<img src="images/Chax/Tim-Peterson_Ch-Bernstiein_BPC-NYC_1-14-07.JPG" width="432" height="324" />
+<img src="/static/images/Chax/Andrews-Bruce_Ch-Bernstein_BPC_NYC_1-14-06.JPG" width="432" height="324" /><img src="/static/images/Chax/Borkhuis-Charles_Ch-Bernstein-BPC-NYC_1-15-07.jpg" width="324" height="432" />  
+<img src="/static/images/Chax/Cobb-Allison_Ch-Bernstein_BPC-NYC_1-15-07.JPG" width="288" height="216" /><img src="/static/images/Chax/Mott-Glenn_Ch-Bernstein_BPC-NYC_1-14-07.JPG" width="360" height="270" />  
+<img src="/static/images/Chax/Tim-Peterson_Ch-Bernstiein_BPC-NYC_1-14-07.JPG" width="432" height="324" />
 
 <span class="rss-content">photos
 (l to r): top -- Andrews, Borkhuis; middle -- Cobb, Mott; bottom

@@ -66,7 +66,7 @@ PennSound Stein page Editor: Ulla Dydo
 
 ### The Speech Lab Recordings, recorded on January 30, 1935 at Columbia University
 
-[<img src="images/Stein/Stein-Record-sm.jpg" style="width:50.0%" style="height:50.0%" />](images/Stein/Stein-Record.JPG)
+[<img src="/static/images/Stein/Stein-Record-sm.jpg" style="width:50.0%" style="height:50.0%" />](images/Stein/Stein-Record.JPG)
 
 Collection editor: Chris Mustazza
 

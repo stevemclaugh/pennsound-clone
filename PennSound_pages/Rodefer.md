@@ -1,7 +1,7 @@
 Stephen Rodefer (1940-2015)
 ===========================
 
-<img src="images/rodefer-stephen-1986.jpg" width="400" />  
+<img src="/static/images/rodefer-stephen-1986.jpg" width="400" />  
 Archive for New Poetry, UC San Diego Library, 1986. Photo by Steve Coy. Artwork by Joe Brainard.  
 
 Reading for [Double Change](http://writing.upenn.edu/pennsound/x/Double-Change.php), Paris, January 25, 2009

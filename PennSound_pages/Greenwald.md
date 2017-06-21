@@ -1,7 +1,7 @@
 [Ted Greenwald](http://epc.buffalo.edu/authors/greenwald/index.html)
 ====================================================================
 
-<img src="images/portraits/Greenwald_Ted_Ch-Bernstein_2007-NYC.JPG" width="640" height="480" />
+<img src="/static/images/portraits/Greenwald_Ted_Ch-Bernstein_2007-NYC.JPG" width="640" height="480" />
 
 photo © 2007 Charles Bernstein/PennSound
 

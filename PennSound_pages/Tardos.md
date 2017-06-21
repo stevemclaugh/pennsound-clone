@@ -278,7 +278,7 @@ Reading at KGB Bar, October 4, 2010
 ------------------------------------------------------------------------
 
   
-<img src="images/maclow-music-cd.jpg" width="302" height="312" />  
+<img src="/static/images/maclow-music-cd.jpg" width="302" height="312" />  
   
 
 From the CD <span class="title">[Music by Jackson Mac Low and Anne Tardos](Mac-Low-Music.html)</span>
@@ -310,7 +310,7 @@ CD available from [Tarmac Books and Music](http://xtina.org/tarmac.htm)
 
 ------------------------------------------------------------------------
 
-<img src="images/doingscd.jpg" style="width:30.0%" style="height:30.0%" />  
+<img src="/static/images/doingscd.jpg" style="width:30.0%" style="height:30.0%" />  
   
 
 From the [CD](Mac-Low-Doings.html) for <span class="title">[Doings:
@@ -374,7 +374,7 @@ Granary Books, 2006
 
 ------------------------------------------------------------------------
 
-<img src="images/MacLow-open-secrets-CD.jpg" width="175" height="178" />
+<img src="/static/images/MacLow-open-secrets-CD.jpg" width="175" height="178" />
 
 From the CD <span class="title">[Open Secrets](Mac-Low-Open-Secrets.html)</span>
 --------------------------------------------------------------------------------

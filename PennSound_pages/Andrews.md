@@ -1,7 +1,7 @@
 [Bruce Andrews](http://epc.buffalo.edu/authors/andrews)
 =======================================================
 
-<img src="images/portraits/Andrews-Bruce_Ch-Bernstein_12-2-06_NYC.JPG" alt="Bruce Andrew" width="320" />  
+<img src="/static/images/portraits/Andrews-Bruce_Ch-Bernstein_12-2-06_NYC.JPG" alt="Bruce Andrew" width="320" />  
 Photo credit: ©2006 Charles Bernstein/PennSound
 
 [Bruce Andrews on LINEbreak](http://writing.upenn.edu/pennsound/x/LINEbreak.html), 1995

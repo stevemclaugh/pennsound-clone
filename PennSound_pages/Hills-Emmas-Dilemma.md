@@ -61,7 +61,7 @@ Henry
 Hills  
   
   
-<img src="images/Hills/multiple_emma.jpg" width="323" height="288" />  
+<img src="/static/images/Hills/multiple_emma.jpg" width="323" height="288" />  
   
 ](Hills.html)
 
@@ -115,7 +115,7 @@ crew") with their frantic movement patterns, typical props
 and recurrent imagery, all shot & edited in a disruptive
 manner to mimetically compensate for the loss of actual presence.
 Though it may sound odd for a work which has never left the digital
-realm, I think of [<img src="images/Hills/Foreman-collage-color.jpg" width="250" />](images/Hills/Foreman-collage-color.jpg)**KING RICHARD** as a totally hand-made
+realm, I think of [<img src="/static/images/Hills/Foreman-collage-color.jpg" width="250" />](images/Hills/Foreman-collage-color.jpg)**KING RICHARD** as a totally hand-made
 piece. Probably because I fidgeted with it for so long, even
 carrying it with me on a LaCie drive whenever I left town. I
 had shot the interview in 1997 after a performance of BENITA
@@ -233,7 +233,7 @@ Henry Hills.
 Used with permission of Henry Hills. Distributed by [PennSound.](../index.html)  
   
   
-**<img src="images/portraits/Henry-Hills_Ch_Bernstein_20060726_02.jpg" width="400" height="300" />  
+**<img src="/static/images/portraits/Henry-Hills_Ch_Bernstein_20060726_02.jpg" width="400" height="300" />  
 **photo: ©2006
 Bernstein/PennSound
 

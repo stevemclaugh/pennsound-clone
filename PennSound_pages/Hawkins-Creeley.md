@@ -182,28 +182,28 @@ Niagara Falls sequence Robert Indiana in red, Bill Katz tall with sideburns
 94:22 Alex Trocchi  
 95:54 Car sequence Passengers unknown: the man with the chipped front teeth is an English poet. Sarah with bubblegum, Kate and Spot.
 
-<img src="images/Creeley-movies/Ginsberg.jpg" width="720" height="449" />  
+<img src="/static/images/Creeley-movies/Ginsberg.jpg" width="720" height="449" />  
 Ginsberg
 
-<img src="images/Creeley-movies/Olson-Creeley-Wieners.jpg" width="720" height="531" />  
+<img src="/static/images/Creeley-movies/Olson-Creeley-Wieners.jpg" width="720" height="531" />  
 Olson, Creeley, Wieners
 
-<img src="images/Creeley-movies/Olson-Duncan.jpg" width="720" height="450" />  
+<img src="/static/images/Creeley-movies/Olson-Duncan.jpg" width="720" height="450" />  
 Olson, Duncan
 
-<img src="images/Creeley-movies/Wieners.jpg" width="720" height="450" />  
+<img src="/static/images/Creeley-movies/Wieners.jpg" width="720" height="450" />  
 Wieners
 
  
 
-<img src="images/Creeley-movies/Cage.png" width="641" height="482" />
+<img src="/static/images/Creeley-movies/Cage.png" width="641" height="482" />
 
 John Cage
 
-<img src="images/Creeley-movies/Sanders.png" width="630" height="473" />  
+<img src="/static/images/Creeley-movies/Sanders.png" width="630" height="473" />  
 Ed Sanders
 
-<img src="images/Creeley-movies/Kupferberg.png" width="627" height="480" />  
+<img src="/static/images/Creeley-movies/Kupferberg.png" width="627" height="480" />  
 Tuli Kupferberg
 
 \[screen shots by Ch.B.\]

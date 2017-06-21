@@ -1,7 +1,7 @@
 [Michael Lally](http://douglangsdcpoetryblog.blogspot.com/2007/08/michael-lally.html)
 =====================================================================================
 
-<img src="images/Michael_Lally.jpg" width="155" height="227" />
+<img src="/static/images/Michael_Lally.jpg" width="155" height="227" />
 
 Appearing on [Public Access Poetry](PAP-2.php) with Steve Hamilton, August 11, 1977
 -----------------------------------------------------------------------------------

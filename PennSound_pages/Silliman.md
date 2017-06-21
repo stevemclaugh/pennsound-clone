@@ -1,7 +1,7 @@
 Ron Silliman
 ============
 
-<img src="images/portraits/Silliman-Ron_Ch-Bernstein_%203-08_sml.JPG" width="500" />  
+<img src="/static/images/portraits/Silliman-Ron_Ch-Bernstein_%203-08_sml.JPG" width="500" />  
   
 Photo © 2008 Charles
 Bernstein/PennSound

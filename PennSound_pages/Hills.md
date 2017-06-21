@@ -62,7 +62,7 @@ Henry
 Hills  
 ](http://www.henryhills.com)**[Experimental Video and Film](http://www.henryhills.com/)**  
   
-<img src="images/portraits/Hills-Henry_Ch-Bernstein_1-10-07_NYC-72dpi.JPG" width="576" height="432" />  
+<img src="/static/images/portraits/Hills-Henry_Ch-Bernstein_1-10-07_NYC-72dpi.JPG" width="576" height="432" />  
 **photo © 2008
 Charles Bernstein/PennSound
 
@@ -184,5 +184,5 @@ Used with permission of Henry Hills. Distributed by [PennSound.](../index.html)
 Close Listening © 2008 Charles Bernstein and Henry
 Hills.  
   
-**<img src="images/portraits/Henry-Hills_Ch_Bernstein_20060726_02.jpg" width="400" height="300" />  
+**<img src="/static/images/portraits/Henry-Hills_Ch_Bernstein_20060726_02.jpg" width="400" height="300" />  
 **photo ©2006 Charles Bernstein/PennSound

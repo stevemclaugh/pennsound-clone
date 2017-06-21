@@ -242,11 +242,11 @@ The original discs were made by William Cabell Greet of Columbia University--ori
 
 [![](images/Lindsay/caedmon-cover-sm.jpg)](images/Lindsay/caedmon-cover-large.jpg)
 
-[<img src="images/Lindsay/caedmon-back-cover-sm.jpg" alt="Back cover of Caedmon Vachel Linday record" width="212" height="220" />](images/Lindsay/caedmon-back-cover-large.jpg)
-[<img src="images/Lindsay/caedmon-record-side1-sm.jpg" alt="Side 1 of Caedmon Vachel Linday record" width="212" height="220" />](images/Lindsay/caedmon-record-side1-large.jpg)
-[<img src="images/Lindsay/caedmon-record-side2-sm.jpg" alt="Side 2 of Caedmon Vachel Linday record" width="212" height="220" />](images/Lindsay/caedmon-record-side2-large.jpg)
-[<img src="images/Lindsay/caedmon-notes-sm.jpg" alt="Side 2 of Caedmon Vachel Linday record" width="212" height="220" />](images/Lindsay/caedmon-notes-large.jpg)
-[<img src="images/Lindsay/ncte-record.jpg" alt="Side 2 of Caedmon Vachel Linday record" width="212" height="220" />](images/Lindsay/ncte-record.jpg)
+[<img src="/static/images/Lindsay/caedmon-back-cover-sm.jpg" alt="Back cover of Caedmon Vachel Linday record" width="212" height="220" />](images/Lindsay/caedmon-back-cover-large.jpg)
+[<img src="/static/images/Lindsay/caedmon-record-side1-sm.jpg" alt="Side 1 of Caedmon Vachel Linday record" width="212" height="220" />](images/Lindsay/caedmon-record-side1-large.jpg)
+[<img src="/static/images/Lindsay/caedmon-record-side2-sm.jpg" alt="Side 2 of Caedmon Vachel Linday record" width="212" height="220" />](images/Lindsay/caedmon-record-side2-large.jpg)
+[<img src="/static/images/Lindsay/caedmon-notes-sm.jpg" alt="Side 2 of Caedmon Vachel Linday record" width="212" height="220" />](images/Lindsay/caedmon-notes-large.jpg)
+[<img src="/static/images/Lindsay/ncte-record.jpg" alt="Side 2 of Caedmon Vachel Linday record" width="212" height="220" />](images/Lindsay/ncte-record.jpg)
 
 [Vachel Lindsay](Lindsay.php) and [Wallace Stevens](Stevens-Wallace.html) Centennial Observance, Library of Congress, November 27, 1979
 ---------------------------------------------------------------------------------------------------------------------------------------

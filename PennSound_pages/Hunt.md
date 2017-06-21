@@ -1,7 +1,7 @@
 Erica Hunt
 ==========
 
-<img src="images/portraits/Erica-Hunt_Ch_Bernstein_7-22-06_1.jpg" width="300" height="400" />
+<img src="/static/images/portraits/Erica-Hunt_Ch_Bernstein_7-22-06_1.jpg" width="300" height="400" />
 
 photo by Charles Bernstein © 2006
 

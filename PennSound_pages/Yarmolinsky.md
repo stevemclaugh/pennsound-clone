@@ -19,7 +19,7 @@ Yarmolinsy's preface to book, published in [*Jacket2*](https://jacket2.org/comme
 Blind Witness News (1990)
 -------------------------
 
-<img src="images/blind-witness.jpg" width="344" height="225" />
+<img src="/static/images/blind-witness.jpg" width="344" height="225" />
 
 1.  International (3:42): [mp3](http://media.sas.upenn.edu/pennsound/authors/Yarmolinsky/Blind/Blind-Witness-News_01-International.mp3)
 2.  Against the Menace (Jill's Aria) (3:06): [mp3](http://media.sas.upenn.edu/pennsound/authors/Yarmolinsky/Blind/Blind-Witness-News_02-Against-the-Menace.mp3)

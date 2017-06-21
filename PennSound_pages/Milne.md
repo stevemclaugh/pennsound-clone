@@ -1,7 +1,7 @@
 Drew Milne
 ==========
 
-<img src="images/Milne-Drew._London_2007.JPG" width="288" height="384" />  
+<img src="/static/images/Milne-Drew._London_2007.JPG" width="288" height="384" />  
 Openned
 Series, Foundry, London, September 2007  
   

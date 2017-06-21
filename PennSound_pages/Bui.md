@@ -1,4 +1,4 @@
-<img src="images/portraits/Bui-Phong_Ch-Bernstein_5-30-07-NYC_03.JPG" width="480" height="360" />
+<img src="/static/images/portraits/Bui-Phong_Ch-Bernstein_5-30-07-NYC_03.JPG" width="480" height="360" />
 
 photo © 2007 Charles Bernstein/PennSound
 

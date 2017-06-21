@@ -1,7 +1,7 @@
 [Norman Fischer](http://www.normanfischer.org/)
 ===============================================
 
-<img src="images/portraits/Fischer_Norman_Ch-Bernstein_2007_03.JPG" width="480" height="360" />
+<img src="/static/images/portraits/Fischer_Norman_Ch-Bernstein_2007_03.JPG" width="480" height="360" />
 
 photo: © 2007 Charles Bernstein/PennSound
 

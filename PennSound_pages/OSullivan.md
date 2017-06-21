@@ -1,7 +1,7 @@
 Maggie O'Sullivan
 =================
 
-[<img src="images/portraits/OSullivan-Maggie_Ch-Bernstein_NY_10-15-07_01_sml.JPG" width="720" height="540" />](images/portraits/OSullivan-Maggie_Ch-Bernstein_NY_10-15-07_01.JPG)  
+[<img src="/static/images/portraits/OSullivan-Maggie_Ch-Bernstein_NY_10-15-07_01_sml.JPG" width="720" height="540" />](images/portraits/OSullivan-Maggie_Ch-Bernstein_NY_10-15-07_01.JPG)  
 *Photo © Charles Bernstein/PennSound. Click on image for hi-res.*
 
 Reading at the Other Room Series in Manchester, England, October 3, 2016
@@ -173,7 +173,7 @@ Reading "Windows," with Bernstein accompanying readng her text "commentary:"
 [Charles Bernstein on Maggie O'Sullivan](http://epc.buffalo.edu/authors/bernstein/essays/OSullivan.html)
 --------------------------------------------------------------------------------------------------------
 
-[<img src="images/portraits/OSullivan-Maggie_Ch-Bernstein_NY_10-15-07-sml.JPG" width="720" height="540" />](images/portraits/OSullivan-Maggie_Ch-Bernstein_NY_10-15-07.JPG)  
+[<img src="/static/images/portraits/OSullivan-Maggie_Ch-Bernstein_NY_10-15-07-sml.JPG" width="720" height="540" />](images/portraits/OSullivan-Maggie_Ch-Bernstein_NY_10-15-07.JPG)  
 *Photo © Charles Bernstein/PennSound. Click on image for hi-res.*
 
 These sound recordings are being made available for noncommercial

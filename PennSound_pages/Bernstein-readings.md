@@ -410,7 +410,7 @@ from "A Person Is Not an Entity Symbolic but the Divine Incarnate" (4:45): [MP3]
 "The Influence of Kinship Patterns upon the Perception of an Ambiguous Stimulus" (from *Dark City*) (6:38): [MP3](http://media.sas.upenn.edu/pennsound/authors/Bernstein/10-11-92/Bernstein-Charles_09_Influence-of-Kinship_Radical-New-Jewish_Knitting-Factory_NYC_10-1-92.mp3)  
   
   
-[<img src="images/Y-1993-program.jpg" width="300" />](images/Y-1993-program.jpg)[<img src="images/Y-1993-program-CB.jpg" width="300" height="396" />  
+[<img src="/static/images/Y-1993-program.jpg" width="300" />](images/Y-1993-program.jpg)[<img src="/static/images/Y-1993-program-CB.jpg" width="300" height="396" />  
 ](images/Y-1993-program-CB.jpg)photos ©Lawrence Schwartzwald; right: draft of "Reznikoff's Nearness"[  
   
 ](images/Y-1993-program.jpg)[Reading as part of *The Tenth Muse II*, Unterberg Poetry Center, 92nd Street Y, New York: March 8, 1993  
@@ -575,7 +575,7 @@ Be Saussure (from My Way) (0:44)](http://media.sas.upenn.edu/pennsound/authors/B
 I Think I Think (5:36)](http://media.sas.upenn.edu/pennsound/authors/Bernstein/Harvard/Bernstein-Charles_04_Thinking-I-Think_02-21-01.mp3) [text](http://www.poetryfoundation.org/poem/181131)  
 5. [Slap
 Me Five, Cleo, Mark's History (12:56)](http://media.sas.upenn.edu/pennsound/authors/Bernstein/Harvard/Bernstein-Charles_05_Slap-Me-Five-Cleo_02-21-01.mp3)   [text](http://www.epoetry.org/issues/issue5/text/poems/cb1.htm)[  
-](http://media.sas.upenn.edu/pennsound/authors/Bernstein/Harvard/Bernstein-Charles_05_Slap-Me-Five-Cleo_02-21-01.mp3)[      <img src="images/cleo.jpg" height="45" />image of Bernard Duvier's "Cleopatra" (subject of poem)  
+](http://media.sas.upenn.edu/pennsound/authors/Bernstein/Harvard/Bernstein-Charles_05_Slap-Me-Five-Cleo_02-21-01.mp3)[      <img src="/static/images/cleo.jpg" height="45" />image of Bernard Duvier's "Cleopatra" (subject of poem)  
 ](images/cleo.jpg)6. [Log
 Rhythms (15:48)](http://media.sas.upenn.edu/pennsound/authors/Bernstein/Harvard/Bernstein-Charles_06_Log-Rhythms_02-21-01.mp3)  [text](http://www.ubu.com/contemp/bb/log_01.html)  
 7. [from

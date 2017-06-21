@@ -4,7 +4,7 @@ Robert Creeley
 
 [](http://epc.buffalo.edu/authors/creeley)
 
-<img src="images/Creeley.jpg" width="267" height="264" />  
+<img src="/static/images/Creeley.jpg" width="267" height="264" />  
 
 [**LINEbreak** interview
 and reading with Charles Bernstein](http://writing.upenn.edu/pennsound/x/LINEbreak.html) (1995)  

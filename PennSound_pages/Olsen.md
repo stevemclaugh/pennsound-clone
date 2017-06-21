@@ -1,7 +1,7 @@
 Redell Olsen
 ============
 
-<img src="images/Olsen.jpg" width="205" height="220" />  
+<img src="/static/images/Olsen.jpg" width="205" height="220" />  
 
 [Close Listening](Close-Listening.php) -- readings and conversations at [WPS1.Org](http://www.wps1.org), Clocktower Studio, New York, April 7, 2006
 ---------------------------------------------------------------------------------------------------------------------------------------------------

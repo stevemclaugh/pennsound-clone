@@ -1,4 +1,4 @@
-<img src="images/Brainard.jpg" width="251" height="225" />
+<img src="/static/images/Brainard.jpg" width="251" height="225" />
 
 [Joe Brainard](http://www.joebrainard.org/index.html)
 =====================================================

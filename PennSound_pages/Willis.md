@@ -1,7 +1,7 @@
 Elizabeth Willis
 ================
 
-<img src="images/portraits/Willis-ELizabeth_Ch-Bernstein_2007.JPG" width="576" height="432" />
+<img src="/static/images/portraits/Willis-ELizabeth_Ch-Bernstein_2007.JPG" width="576" height="432" />
 
 photo © 2007 by Charles Bernstein/PennSound
 

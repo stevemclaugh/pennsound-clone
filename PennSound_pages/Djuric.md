@@ -1,9 +1,9 @@
 Dubravka Djurić
 ===============
 
-<img src="images/portraits/Djuric-Dubravka_Ch-Bernstein_NYC_4-29-07_R1.jpg" width="350" /><img src="images/portraits/Djuric-Dubravka_Ch-Bernstein_NYC_4-29-07_R2.jpg" width="350" />
+<img src="/static/images/portraits/Djuric-Dubravka_Ch-Bernstein_NYC_4-29-07_R1.jpg" width="350" /><img src="/static/images/portraits/Djuric-Dubravka_Ch-Bernstein_NYC_4-29-07_R2.jpg" width="350" />
 
-<img src="images/portraits/Djuric-Dubravka_Ch-Bernstein_NYC_4-29-07_R3.jpg" width="350" /><img src="images/portraits/Djuric-Dubravka_Ch-Bernstein_NYC_4-29-07_R4.jpg" width="350" />
+<img src="/static/images/portraits/Djuric-Dubravka_Ch-Bernstein_NYC_4-29-07_R3.jpg" width="350" /><img src="/static/images/portraits/Djuric-Dubravka_Ch-Bernstein_NYC_4-29-07_R4.jpg" width="350" />
 
 *Photos © 2007 Charles Bernstein/PennSound*
 

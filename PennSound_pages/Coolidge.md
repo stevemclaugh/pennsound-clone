@@ -127,7 +127,7 @@ Reading at UCSC, March 1, 2000
 Reading as part of *The Tenth Muse II*, Unterberg Poetry Center, 92nd Street Y, New York, NY, March 8, 1993
 -----------------------------------------------------------------------------------------------------------
 
-<img src="images/Y-1993-program.jpg" width="273" />  
+<img src="/static/images/Y-1993-program.jpg" width="273" />  
 *Photo © Lawrence Schwartzwald*
 
 -   with [Charles Bernstein](http://writing.upenn.edu/pennsound/x/Bernstein-readings.html#1993) and [Susan Howe](http://writing.upenn.edu/pennsound/x/Howe.php#1993)  

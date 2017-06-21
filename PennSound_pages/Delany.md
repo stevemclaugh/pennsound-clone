@@ -2,7 +2,7 @@ Samuel R. Delany
 ================
 
   
-<img src="images/portraits/Delany-Samuel-R_Ch-Bernstein_KWH_4-11-14_SMALL.jpg" alt="Delany" width="500" />  
+<img src="/static/images/portraits/Delany-Samuel-R_Ch-Bernstein_KWH_4-11-14_SMALL.jpg" alt="Delany" width="500" />  
 
 ###### photo © 2014 Charles Bernstein/PennSound
 

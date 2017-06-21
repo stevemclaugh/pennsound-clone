@@ -1,7 +1,7 @@
 [Leslie Scalapino](http://epc.buffalo.edu/authors/scalapino/)
 =============================================================
 
-<img src="images/portraits/Scalapino-Leslie_Ch-Bernstein_11-14-07-double.JPG" width="300" />
+<img src="/static/images/portraits/Scalapino-Leslie_Ch-Bernstein_11-14-07-double.JPG" width="300" />
 
 at Kelly Writers House, 2007 / photo: Bernstein  
 

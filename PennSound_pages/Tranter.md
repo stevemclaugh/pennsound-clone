@@ -120,4 +120,4 @@ and educational use only. All rights reserved. © 2008 John Tranter. Used with P
 
   
 
-<img src="images/portraits/Tranter_John_Ch-Bernstein_NYC_4-3-08_rdng.JPG" width="648" height="486" />
+<img src="/static/images/portraits/Tranter_John_Ch-Bernstein_NYC_4-3-08_rdng.JPG" width="648" height="486" />

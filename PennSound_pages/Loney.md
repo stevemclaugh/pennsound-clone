@@ -1,7 +1,7 @@
 Alan Loney
 ==========
 
-<img src="images/portraits/Loney-Alan_Charles-Bernstein_3-3-09_NYC.jpg" width="300" />  
+<img src="/static/images/portraits/Loney-Alan_Charles-Bernstein_3-3-09_NYC.jpg" width="300" />  
 Photo © 2009 Charles Bernstein/PennSound
 
 [Close Listening](Close-Listening.php)

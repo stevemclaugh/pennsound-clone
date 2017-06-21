@@ -1,7 +1,7 @@
 [Lee Ann Brown](http://epc.buffalo.edu/authors/brown/)
 ======================================================
 
-<img src="images/portraits/Brown_Lee-Ann_Ch-Bernstein_9-13-07_Pernn_01.jpg" alt="Lee Ann Brown" width="576" height="432" />  
+<img src="/static/images/portraits/Brown_Lee-Ann_Ch-Bernstein_9-13-07_Pernn_01.jpg" alt="Lee Ann Brown" width="576" height="432" />  
 *Photo © 2007 Charles Bernstein/PennSound*
 
 [Close Listening](Close-Listening.php) Conversation with Charles Bernstein, September 13, 2007

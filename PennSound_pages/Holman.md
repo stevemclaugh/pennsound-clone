@@ -67,7 +67,7 @@ Reading at the Kelly Writers House, University of Pennsylvania,
 5.  "How Kora was Born as Sung by Papa Suso to Bob Holman" (3:39): [MP3](http://media.sas.upenn.edu/pennsound/authors/Holman/KWH10-17-02/Holman-Bob_05_How-Kora-was-Born_UPenn_10-17-02.mp3)
 6.  "Whatever I Was Thinking Of" (7:03): [MP3](http://media.sas.upenn.edu/pennsound/authors/Holman/KWH10-17-02/Holman-Bob_06_Whatever-I-Was-Thinking-Of_UPenn_10-17-02.mp3)
 
-[<img src="images/HolmanCD.jpg" width="239" height="242" />](http://www.amazon.com/exec/obidos/tg/detail/-/B000006893/qid=1127229280/sr=8-1/ref=pd_bbs_1/102-0690582-2554543?v=glance&s=music&n=507846)
+[<img src="/static/images/HolmanCD.jpg" width="239" height="242" />](http://www.amazon.com/exec/obidos/tg/detail/-/B000006893/qid=1127229280/sr=8-1/ref=pd_bbs_1/102-0690582-2554543?v=glance&s=music&n=507846)
 
 In With The Out Crowd
 ---------------------

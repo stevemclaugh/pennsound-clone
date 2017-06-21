@@ -62,7 +62,7 @@ Library](http://writing.upenn.edu/pepc/contents.html)
 [Jackson Mac Low](Mac-Low.html) and [Anne Tardos](Tardos.html)**
 
 ***Open Secrets*  
-[<img src="images/MacLow-open-secrets-CD.jpg" width="175" height="178" />](http://www.experimentalintermedia.org/xi/110.shtml)**
+[<img src="/static/images/MacLow-open-secrets-CD.jpg" width="175" height="178" />](http://www.experimentalintermedia.org/xi/110.shtml)**
 
 [Experimental
 Intermedia Foundation](http://www.experimentalintermedia.org) CD  

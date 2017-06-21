@@ -2,7 +2,7 @@ Michael
 Davidson
 ========
 
-<img src="images/portraits/Davidson-Michael_Ch-Bernstein_3-6-09jpg.jpg" width="576" height="432" />  
+<img src="/static/images/portraits/Davidson-Michael_Ch-Bernstein_3-6-09jpg.jpg" width="576" height="432" />  
 Photo © 2009 Charles Bernstein/PennSound
 
 [Close Listening](Close-Listening.php)

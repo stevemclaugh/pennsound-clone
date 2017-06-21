@@ -63,7 +63,7 @@ Brown](Brown.html)**
 
  
 
-**<img src="images/portraits/Mayer-Bernadette_Ch-Bernstein-9-14-07_Penn.JPG" width="300" /> <img src="images/portraits/Brown_Lee-Ann_Ch-Bernstein_9-13-07_Pernn.JPG" width="300" />  
+**<img src="/static/images/portraits/Mayer-Bernadette_Ch-Bernstein-9-14-07_Penn.JPG" width="300" /> <img src="/static/images/portraits/Brown_Lee-Ann_Ch-Bernstein_9-13-07_Pernn.JPG" width="300" />  
 **photos©2007
 Charles Bernstein/PennSound
 

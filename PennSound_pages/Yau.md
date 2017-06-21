@@ -1,4 +1,4 @@
-<img src="images/portraits/Yau-John_Ch-Bernstein_5-30-07-NYC_04.JPG" width="576" height="432" />
+<img src="/static/images/portraits/Yau-John_Ch-Bernstein_5-30-07-NYC_04.JPG" width="576" height="432" />
 
 photo © 2007
 Charles Bernstein/PennSound

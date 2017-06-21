@@ -1,7 +1,7 @@
 Peter Gizzi
 ===========
 
--   <img src="images/Gizzi-Peter_Robert_Seydel.JPG" width="360" height="507" />
+-   <img src="/static/images/Gizzi-Peter_Robert_Seydel.JPG" width="360" height="507" />
 -   Photo:Robert Seydel
 
 [Close Listening](Close-Listening.php)

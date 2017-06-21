@@ -1,7 +1,7 @@
 [Alan Davies](http://epc.buffalo.edu/authors/davies/)
 =====================================================
 
-<img src="images/Davis-Alan-by_Kenji-Kirit.jpg" width="300" />  
+<img src="/static/images/Davis-Alan-by_Kenji-Kirit.jpg" width="300" />  
 photo: Kenji Kirit
 
 [Close Listening](http://writing.upenn.edu/pennsound/x/Close-Listening.php): WPS1 Reading and Conversation. January 5, 2006

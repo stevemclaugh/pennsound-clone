@@ -1,7 +1,7 @@
 [Mei-mei Berssenbrugge](http://epc.buffalo.edu/authors/berssenbrugge/)
 ======================================================================
 
-<img src="images/portraits/Berssenbrugge-Mei-mei_Ch-Bernstein_2006_01-sml.jpg" width="432" height="324" />  
+<img src="/static/images/portraits/Berssenbrugge-Mei-mei_Ch-Bernstein_2006_01-sml.jpg" width="432" height="324" />  
 ©2006 Charles Bernstein/PennSound
 
 [Close Listening](Close-Listening.php) -- readings and conversations at [WPS1.org](http://www.wps1.org)

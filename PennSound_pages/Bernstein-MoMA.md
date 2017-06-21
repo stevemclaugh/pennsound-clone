@@ -4,7 +4,7 @@ at MOMA
 
   
 
-<img src="images/Bernstein-Charles-at-MoMA_2008-2.JPG" width="436" height="326" />
+<img src="/static/images/Bernstein-Charles-at-MoMA_2008-2.JPG" width="436" height="326" />
 
 **![](http://external.ak.fbcdn.net/safe_image.php?d=5ce97e97b3660542630030c782177a10&url=http%3A%2F%2Fwww.moma.org%2Fimages%2Fcommon%2Fmoma-logo.gif%3F1240246272)  
 **
@@ -53,7 +53,7 @@ Deniable Links" (2008)**
 
  
 
-<img src="images/Bernstein-Charles-at-MoMA_2008-1.JPG" width="640" height="478" />
+<img src="/static/images/Bernstein-Charles-at-MoMA_2008-1.JPG" width="640" height="478" />
 
 **  
 **These sound recordings are being made available for noncommercial  

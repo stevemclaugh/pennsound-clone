@@ -8,7 +8,7 @@ bpNichol
 aka bpNichol
 ============
 
-<img src="images/bpNichol.jpg" width="184" height="275" />
+<img src="/static/images/bpNichol.jpg" width="184" height="275" />
 
  
 

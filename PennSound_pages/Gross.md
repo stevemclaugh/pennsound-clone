@@ -1,7 +1,7 @@
 Mimi Gross
 ==========
 
-<img src="images/portraits/Mimi-Gross-P-town_20060808_detail.jpg" width="314" height="321" />
+<img src="/static/images/portraits/Mimi-Gross-P-town_20060808_detail.jpg" width="314" height="321" />
 
 photo © 2006 Charles Bernstein
 

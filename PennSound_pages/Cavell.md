@@ -1,7 +1,7 @@
 Stanley Cavell
 ==============
 
-<img src="images/portraits/Cavelll-Stanley_SML_Ch-Bernstein_04-09-14-crop*.jpg" alt="Cavell" width="720" height="624" />  
+<img src="/static/images/portraits/Cavelll-Stanley_SML_Ch-Bernstein_04-09-14-crop*.jpg" alt="Cavell" width="720" height="624" />  
 
 ###### photo: ©2014 Charles Bernstein / PennSound
 

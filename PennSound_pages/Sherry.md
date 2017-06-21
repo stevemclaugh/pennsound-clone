@@ -60,7 +60,7 @@ Library](http://writing.upenn.edu/pepc/contents.html)
   
 James Sherry**  
   
-<img src="images/portraits/Sherry-James_Ch-Bernstein_NY_2006.JPG" width="500" />  
+<img src="/static/images/portraits/Sherry-James_Ch-Bernstein_NY_2006.JPG" width="500" />  
 *Photo © 2006 Charles Bernstein/PennSound.*
 
 Appearing on [Public Access Poetry](http://writing.upenn.edu/pennsound/x/PAP.php) with Yuki Hartman, October 20, 1977

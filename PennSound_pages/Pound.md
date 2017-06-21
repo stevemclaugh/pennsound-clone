@@ -2,7 +2,7 @@
 Pound](http://epc.buffalo.edu/authors/pound/)
 =============================================
 
-<img src="images/Pound-Ezra_Erker-Verlag_St-Gallen.jpg" width="485" height="520" />
+<img src="/static/images/Pound-Ezra_Erker-Verlag_St-Gallen.jpg" width="485" height="520" />
 
 Photo: Franz Larese, Erker-Galerie, Easter 1971, Burano, Italy
 
