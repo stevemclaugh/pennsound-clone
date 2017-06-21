@@ -1,6 +1,5 @@
-[Ezra
-Pound](http://epc.buffalo.edu/authors/pound/)
-=============================================
+# [Ezra Pound](http://epc.buffalo.edu/authors/pound/)
+
 
 <img src="/static/images/Pound-Ezra_Erker-Verlag_St-Gallen.jpg" width="485" height="520" />
 
